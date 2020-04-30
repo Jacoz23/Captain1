@@ -1,2 +1,13 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test Page</title>
+</head> 
+<body> 
+    <h1>I Can do this all day</h1>
+    <p><b>Avenger Assemble</b></p>
+    <a href="https://google.com" target="_blank" title="Lets go to Google">Click Me For Assembly</a>
+    <p>My name is:<br>Captain America</p>
+    <img src="https://www.denofgeek.com/wp-content/uploads/2019/05/chris-evans-captain-america.jpg?fit=1200%2C675">
+</body>  
+</html>
